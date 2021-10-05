@@ -49,7 +49,7 @@ export const Character = () => {
                 </Card.Body>
               </Card>
             ))
-          : 'There is nothing here'}
+          : 'Nothing found, press reset to reset'}
       </StyledCharacterBlock>
       <StyledPaginationBlock>
         {!!character.length && info.prev && (
