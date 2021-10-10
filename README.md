@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Demo
 :video_game: https://world-art.github.io/Rick_and_Morty_React/
 # Getting Started with Create React App
 
